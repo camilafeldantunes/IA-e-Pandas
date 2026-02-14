@@ -1,6 +1,6 @@
 DESAFIO
-- Criar um arquivo .txt e criar 10 perguntas sobre um tema aleatório
-- Ler esse arquivo em Python
-- Criar uma LLM para mostrar a resposta
-- Mandar para um arquivo .csv
-- Apresentar essas respostas utilizando Pandas
+- Criar um arquivo .txt a partir de uma lista de perguntas vindas de uma lista em Python
+- Ler as perguntas desse arquivo .txt e salva-las em uma lista em Python
+- Obter respostas de um LLM para cada uma
+- Salvar o resultado em um novo arquivo .csv
+- Ler o arquivo .csv utilizando Pandas
